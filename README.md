@@ -1,3 +1,7 @@
+[![Build Status](https://dev.azure.com/000285728/Azure_DevOps_Learn/_apis/build/status/kpmohawk.pipelines-java?branchName=master)](https://dev.azure.com/000285728/Azure_DevOps_Learn/_build/latest?definitionId=1&branchName=master)
+
+
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
